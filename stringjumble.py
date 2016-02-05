@@ -1,6 +1,6 @@
 """
 stringjumble.py
-Author: <your name>
+Author: Avery Wallis
 Credit: <sources>
 
 Assignment:
