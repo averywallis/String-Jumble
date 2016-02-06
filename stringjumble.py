@@ -28,4 +28,5 @@ erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 string= str(input("Please enter a string of text (the bigger the better): "))
 l=(int(len(string)))
 
-print(string[l])
+
+print(string[-l])
