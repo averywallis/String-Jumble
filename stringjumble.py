@@ -29,4 +29,4 @@ string= str(input("Please enter a string of text (the bigger the better): "))
 l=(int(len(string)))
 
 
-print(string[-l])
+print(string[-1])
