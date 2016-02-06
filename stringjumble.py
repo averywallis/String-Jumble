@@ -27,6 +27,6 @@ erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 """
 string= str(input("Please enter a string of text (the bigger the better): "))
 l=-1*(int(len(string)))
-while l>=l:
+while l>=0:
     print(string[1+1])
     l=l+1
