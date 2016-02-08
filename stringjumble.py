@@ -33,6 +33,7 @@ while -l in range(-(l-(l-1)),-l):
 print(string[-(l-(l-1))])
 print(string[l in range(-(l-(l-1))),-l])
 """
-for x in range(1,l):
+for x in range(1,l+1):
     print(string[-x],end="")
-print(string[-l])
+
+
