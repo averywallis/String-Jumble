@@ -30,3 +30,4 @@ l=(int(len(string)))
 
 print(string[-(l-(l-1))])
 print(string[l in range (-l,-(l-(l-1)))])
+print(string[l])
