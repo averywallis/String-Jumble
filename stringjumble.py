@@ -28,6 +28,7 @@ erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 string= str(input("Please enter a string of text (the bigger the better): "))
 l=(int(len(string)))
 print('You entered "'+ string + '". Now jumble it:')
+string= list(string)
 
 for x in range(1,l+1):
     print(string[-x],end="")
