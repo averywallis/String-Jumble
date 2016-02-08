@@ -35,3 +35,4 @@ print(string[l in range(-(l-(l-1))),-l])
 """
 for x in range(1,l):
     print(string[-x],end="")
+print(string[-l])
