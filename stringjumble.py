@@ -38,4 +38,4 @@ for x in range(1,l+1):
 
 for x in range(1,l+1):
     if string[-x]==" ":
-        print(string[-x+1])
+        print(string[-x+1],end="")
