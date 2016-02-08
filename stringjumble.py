@@ -28,7 +28,8 @@ erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 string= list(str(input("Please enter a string of text (the bigger the better): ")))
 l=(int(len(string)))
 
-print(y,end="")
+while l in range(-(l-(l-1)),-l)
+    print(y,end="")
 print(string[-(l-(l-1))])
 print(string[l in range (-1,-(l-(l-1)))])
 print(string[-l])
