@@ -25,11 +25,11 @@ ydnah dnif yam uoy taht skcirt ro seuqinhcet wef a era erehT
 handy find may you that tricks or techniques few a are There
 erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 """
-string= list(str(input("Please enter a string of text (the bigger the better): ")))
+string= str(input("Please enter a string of text (the bigger the better): "))
 l=(int(len(string)))
 
 while -l in range(-(l-(l-1)),-l):
     print(y,end="")
 print(string[-(l-(l-1))])
-print(string[l in range (-1,-(l-(l-1)))])
+print(string[l in range(-(l-(l-1))),-l])
 print(string[-l])
