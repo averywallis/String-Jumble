@@ -36,4 +36,4 @@ print()
 
 for x in range(1,l+1):
     if string[-x]==" ":
-        for y in range(print(string[-x-1],end="")
+        
