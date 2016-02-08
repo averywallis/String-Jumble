@@ -1,7 +1,7 @@
 """
 stringjumble.py
 Author: Avery Wallis
-Credit: None so far
+Credit: Ethan
 
 Assignment:
 
@@ -35,5 +35,4 @@ print(string[l in range(-(l-(l-1))),-l])
 """
 for x in range(1,l+1):
     print(string[-x],end="")
-
 
