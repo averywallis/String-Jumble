@@ -30,7 +30,7 @@ l=(int(len(string)))
 
 for x in range(1,l+1):
     print(string[-x],end="")
-    print()
+
 for x in range(1,l+1):
     if string[-x]==" ":
         print(string[-x+1],end="")
