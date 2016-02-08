@@ -27,16 +27,10 @@ erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 """
 string= list(str(input("Please enter a string of text (the bigger the better): ")))
 l=(int(len(string)))
-"""
-while -l in range(-(l-(l-1)),-l):
-    print(y,end="")
-print(string[-(l-(l-1))])
-print(string[l in range(-(l-(l-1))),-l])
-"""
+
 for x in range(1,l+1):
     print(string[-x],end="")
-
-
+    print()
 for x in range(1,l+1):
     if string[-x]==" ":
         print(string[-x+1],end="")
