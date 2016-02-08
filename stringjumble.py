@@ -34,5 +34,4 @@ for x in range(1,l+1):
 print()
 
 
-for x in range(1,l+1):
-    
+
