@@ -27,10 +27,13 @@ erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 """
 string= list(str(input("Please enter a string of text (the bigger the better): ")))
 l=(int(len(string)))
+print('You entered '+string+'. Now jumble it:')
 
 for x in range(1,l+1):
     print(string[-x],end="")
 print()
+
+
 for x in range(1,l+1):
     if string[-x]==" ":
-        print(string[-x-1],end="")
+        for y in range(print(string[-x-1],end="")
