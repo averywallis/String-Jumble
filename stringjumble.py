@@ -36,8 +36,7 @@ print(string[l in range(-(l-(l-1))),-l])
 for x in range(1,l+1):
     print(string[-x],end="")
 
-"""
-for x in range(1,l+1):
-    if string[-x]==" ":
-        print(string[-x+1],end="")
-""""
+
+#for x in range(1,l+1):
+    #if string[-x]==" ":
+        #print(string[-x+1],end="")
