@@ -36,11 +36,10 @@ print()
 
 for x in range(l,1,-1):
     if string[-x]==" ":
-        a=x
         for y in range(l,x,-1):
             print(string[-y],end="")
-        print(" ")
-
+            a={0]
+        
 """
 for x in range(l,1,-1):
     if string[-x]==" ":
