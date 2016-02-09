@@ -35,6 +35,5 @@ for x in range(1,l+1):
 print()
 
 for x in range(l,1,-1):
-    if string[-x]==" ":
         print(string[-x],end=" ")
 
