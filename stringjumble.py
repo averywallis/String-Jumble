@@ -38,5 +38,4 @@ for x in range(l,1,-1):
     if string[-x]==" ":
         print(string[-x-1])
     else:
-        print(string[-x],end="")    
-print(string[-l])
+        print(string[-x])    
