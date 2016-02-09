@@ -38,7 +38,7 @@ for x in range(l,1,-1):
     if string[-x]==" ":
         a=x
         for y in range(l,x,-1):
-            print(string[-y+a],end="")
+            print(string[-y],end="")
         print(" ")
 
 """
