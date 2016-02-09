@@ -37,6 +37,6 @@ print()
 for x in range(1, l+1):
     if string[-x]==" ":
         print(string[-x+1])
-    elif:
+    else:
         print(string[-x],end="")    
 print()
