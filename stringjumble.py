@@ -36,7 +36,7 @@ print()
 
 for x in range(l,1,-1):
     if string[-x]==" ":
-        for y in range(1,x)
-        print(string[-y+(l-y)],end="")
+        for y in range(1,x):
+            print(string[-y+(l-y)],end="")
     
 
