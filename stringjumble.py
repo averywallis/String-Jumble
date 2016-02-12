@@ -39,7 +39,7 @@ for x in range(l,1,-1):
         for y in range(l,x,-1):
             a=str(y)
             
-        
+        print(str(y))
 """
 for x in range(l,1,-1):
     if string[-x]==" ":
