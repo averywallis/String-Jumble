@@ -37,7 +37,7 @@ print()
 for x in range(l,1,-1):
     if string[-x]==" ":
         for y in range(l,x,-1):
-            a=list(y)
+            a=str(y)
             
         
 """
