@@ -45,5 +45,5 @@ print()
 for words in spil:
     g=0
     while g>0:
-        print(word,end="")
+        print(words,end="")
         g=g+1
