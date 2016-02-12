@@ -30,6 +30,7 @@ l=(int(len(string)))
 print('You entered "'+ string + '". Now jumble it:')
 the = list(string)
 spil = string.split(' ')
+print()
 
 for x in range(1,l+1):
     print(string[-x],end="")
