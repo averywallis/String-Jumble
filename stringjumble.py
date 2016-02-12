@@ -42,12 +42,11 @@ for word in f:
 print("")    
 print()
 
-for x in range(l,1,-1):
-    if string[-x]==" ":
-        for y in range(l,x,-1):
-            a=str(y)
-            
-        print(str(y))
+for words in spil:
+    g=0
+    while g>0:
+        print(word,end="")
+        g=g+1
 """
 for x in range(l,1,-1):
     if string[-x]==" ":
