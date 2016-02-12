@@ -39,6 +39,7 @@ print()
 f=list(reversed(spil))
 for word in f:
     print(word,end="")
+print("")    
 print()
 
 for x in range(l,1,-1):
