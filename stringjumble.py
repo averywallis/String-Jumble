@@ -1,7 +1,7 @@
 """
 stringjumble.py
 Author: Avery Wallis
-Credit: Ethan
+Credit: Ethan, Daniel
 
 Assignment:
 
@@ -38,7 +38,7 @@ for x in range(l,1,-1):
     if string[-x]==" ":
         for y in range(l,x,-1):
             print(string[-y],end="")
-            a={0}
+            
         
 """
 for x in range(l,1,-1):
