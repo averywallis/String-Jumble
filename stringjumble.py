@@ -40,7 +40,7 @@ f=list(reversed(spil))
 for word in f:
     print(word,end=" ")
 print("")    
-print()
+
 for word in spil:
     g=0
     while g< len(word):
