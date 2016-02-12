@@ -38,7 +38,7 @@ print()
 
 f=list(reversed(spil))
 for word in f:
-    print(word,end="")
+    print(word,end=" ")
 print("")    
 print()
 
