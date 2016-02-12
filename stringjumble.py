@@ -36,7 +36,7 @@ for x in range(1,l+1):
     print(string[-x],end="")
 print()
 
-f=list(reverse(spil))
+f=list(reversed(spil))
 for word in f:
     print(word,end="")
 print()
