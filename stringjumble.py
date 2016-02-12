@@ -1,7 +1,7 @@
 """
 stringjumble.py
 Author: Avery Wallis
-Credit: Ethan, Daniel
+Credit: Ethan, Daniel, Payton
 
 Assignment:
 
