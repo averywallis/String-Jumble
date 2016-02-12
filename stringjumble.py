@@ -45,7 +45,7 @@ print()
 for words in spil:
     g=0
     while g< len(words):
-        r=str(word[len(word)-g-1]))
+        r=str(words[len(words)-g-1]))
         print("{0}".format(r), end="")
         g=g+1
     print("",end=" ")
